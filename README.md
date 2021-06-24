@@ -1,7 +1,2 @@
-### Hi! I'm GAK👋
-
-.
-
-
-🔭 I’m currently a student @Amrita Vishwa Vidyapeetham
+### Hey all, I'm GAK👋
 
