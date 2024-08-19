@@ -29,7 +29,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ArvinthKrishna"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ArvinthKrishna" /></a></p><br><br>
-![GAK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arvinth-Krishna&show_icons=true&theme=transparent)
+<p><img align="center" src="[https://github-readme-stats.vercel.app/api?username=Arvinth-Krishna&show_icons=true&theme=transparent" alt="arvinth-krishna-G AKA GAK" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvinth-krishna&show_icons=true&locale=en&layout=compact" alt="arvinth-krishna" /></p>
 
 
